@@ -1,0 +1,1 @@
+Simplest diffusion model possible
